@@ -162,3 +162,30 @@ body {
 .experience_item {
   padding: 10px;
 }
+
+.education__list {
+  list-style-type: none;
+  text-align: left;
+  padding: 0 15px;
+  line-height: 20px;
+}
+
+.education__list-item {
+  padding: 0 5px;
+  font-family: 'Poly', serif;
+  font-size: 20px;
+  line-height: 130%;
+}
+
+.trainings__list {
+  list-style-type: none;
+  text-align: left;
+  padding: 0 15px;
+}
+
+.trainings__list-item {
+  padding: 0 5px;
+  font-family: 'Poly', serif;
+  font-size: 20px;
+  line-height: 130%;
+}
