@@ -33,3 +33,47 @@ Having knowledge of HTML/CSS/JS is looking for a Junior Front-End Developer posi
 - Attention to detail, hands-on experience, flexible with assignments.
 - Positive attitude and ability to take ownership when it comes to solve problems.
 - English – Advanced.
+
+### Experience
+
+---
+
+**Senior Electrical Engineer**  
+**Eknis-Engineering, LLC (Design, installation and improvement of power facilities up to 750 kV)**  
+03.2020 – till present
+
+**Responsibilities:**  
+• development of projects for the construction of high-voltage substations in accordance with industrial codes and standards;  
+• development of tasks for specialists of related departments;  
+• coordination of the executed documentation with specialists of related department;  
+• verification of developed documentation for compliance with industrial codes and standards.
+
+**Lead Electrical Engineer**  
+**EDS-engineering, LLC (Designing and building of high voltage substations and solar stations)**  
+09.2018 – 10.2019
+
+**Responsibilities:**  
+• Preparing layouts and sections, cable system layouts and cable lists of high-voltage substations (110, 150 kV) using BIM-modelling.  
+• Leadership of a team of 4 engineers, training and verification of their work.  
+• Participation in negotiations with foreign customers.  
+• Preparing tasks for specialists of related departments.
+
+**QA Engineer**  
+**Ciklum**  
+06.2018 – 09.2018
+
+**Responsibilities:**  
+• Manual testing of the websites and subscription letters (desktop, mobile).  
+• Functional testing, Localization testing.  
+• Checking the design of the websites using Adobe Photoshop.  
+• Reporting via JIRA.  
+• Creating checklists.
+
+**Lead Electrical Engineer**  
+**Institute DniproVNIPIenergoprom, LLC (Designing of electrical stations and high voltage substations)**  
+02.2011 – 06.2018
+
+**Responsibilities:**  
+• Preparing layouts and sections, cable system layouts and cable lists of high-voltage substations (110-330 kV).  
+• Development of design documentation at all stages.  
+• Preparing tasks for specialists of related departments.
