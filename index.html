@@ -81,6 +81,69 @@
 			</ul>
 		</section>
 	</aside>
+	<main class="main__info">
+		<section class="projects" id="projects">
+			<h3 class="title">WEB Projects</h3>
+			<div class="projects_item">
+				<a href="https://shrai-dev.github.io/memory-pair-game/" class="projects__link" target="_blank">
+					<div class="projects__description">
+						<h4 class="projects_title">
+							Memory Pair Game
+						</h4>
+						<p class="projects_text">
+							I created Memory Pair Game that is a basic matching game to test the player's memory. Implemented with
+							HTML,
+							CSS & JS. Applied responsive
+							design.
+						</p>
+					</div>
+					<img src="images/memory_pair_game.jpg" alt="Memory Pair Game" class="projects__image">
+				</a>
+			</div>
+			<div class="projects_item">
+				<a href="https://shrai-dev.github.io/virtual-piano/" class="projects__link target=" _blank"">
+					<div class="projects__description">
+						<h4 class="projects_title">
+							Virtual piano
+						</h4>
+						<p class="projects_text">
+							I made small version of piano that can be played using keyboard or mouse. Implemented with HTML, CSS & JS.
+						</p>
+					</div>
+					<img src="images/virtual_piano.jpg" alt="Virtual piano" class="projects__image">
+				</a>
+			</div>
+			<div class="projects_item">
+				<a href="https://shrai-dev.github.io/wildlife/" class="projects__link" target="_blank">
+					<div class="projects__description">
+						<h4 class="projects_title">
+							Wildlife
+						</h4>
+						<p class="projects_text">
+							I created static page for desktop using HTML & CSS.
+						</p>
+					</div>
+					<img src="images/wildlife.jpg" alt="Wildlife" class="projects__image">
+				</a>
+			</div>
+			<div class="projects_item">
+				<h4 class="projects_title">Code samples
+				</h4>
+				<p class="projects_text">
+					I practice on Codewars. Here is one solution I've made recently.
+				</p>
+				<pre class="projects__code"><code class="language-javascript">
+function convertHashToArray(hash){
+  const result = [];
+  for (let key in hash) {
+    result.push([key, hash[key]])
+  }
+  return result.sort((a, b) => a[0].localeCompare(b[0]));
+}
+          </code></pre>
+			</div>
+		</section>
+	</main>
 </body>
 
 </html>
