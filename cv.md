@@ -77,3 +77,19 @@ Having knowledge of HTML/CSS/JS is looking for a Junior Front-End Developer posi
 • Preparing layouts and sections, cable system layouts and cable lists of high-voltage substations (110-330 kV).  
 • Development of design documentation at all stages.  
 • Preparing tasks for specialists of related departments.
+
+### Education
+
+---
+
+2006 – 2011 - National Technical University Dnipro Politechnic (Ukraine, Dnipro)  
+Diploma of Specialist in Electrical Engineering
+
+### Courses, trainings, certificates
+
+---
+
+12.2021 – till present – course “Javascript/Front-end”, RS School (online)
+10.2020 - 01.2021 - course “Front-End Stage 0. Self-study”, Kottans (online)  
+2017 – course “Software testing”, training IT-center SkillUp (Dnipro)  
+2017 – course “Basic WEB and SQL for Software testing”, training IT-center SkillUp (Dnipro)
